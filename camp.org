@@ -1,0 +1,70 @@
+#+TITLE: Top Level Camp Organization
+
+* Introduction
+  
+** Camp Philosophy
+   The journey is more important then the destination. How we treat
+   each other determines the quality of our experience. 
+
+** Camp Lead
+   Camp lead is Ryan Rawson. I exist to further our experience, and
+   coordinate our activities. 
+
+*** Leadership
+    TBD, as projects coleasce, interested parties will step up and
+    appoint themselves to lead.
+   
+* Calendar
+  Listing of TODOs and when they are due by.
+
+** TODO Camp name, camp plan for village planning
+   DEADLINE: <2017-03-30 Thu>
+* Camp Name
+** Facebook poll options
+| Camp name              | Facebook vote count |
+|------------------------+---------------------|
+| No Fun Allowed         |                   4 |
+| Emotional Development  |                   4 |
+| Kamp Kaboom            |                   3 |
+| Exploding Kittens      |                   2 |
+| Dust & Lust            |                   1 |
+| Magic Potion           |                   1 |
+| Motion Potion          |                     |
+| No Bell Peppers Please |                     |
+| Pow Lotion             |                     |
+| Lust Potion            |                     |
+* Camp Art
+  Two major art projects planned so far
+** CBT - Coffee Bacon Tea
+   Inside the 20' dome, a cafe with CBT. Additional amenities possible, for example:
+   - Tables and chairs
+   - Somewhere soft to sit
+   - Some kind of platform to play music
+   - Programmable LED lights
+   - Volunteer Bar
+** LED art project
+   Actual plans are being drafted, but not available as of yet.
+
+   The general plan is to go with something that is standalone, serves
+   as a tripper-trapper, and has lots of cool programmable LEDs.
+* Camp Amenities
+** Provided by village
+*** 120 V Power, 24/7 including RV attachments
+*** Fresh water, drinking & possibly showering
+*** Grey Water
+**** TODO Will the village have grey water or not?
+*** Other camp front-of-house interactivity
+**** Airpusher art car & DJs
+**** Drama Stage
+**** TODO More
+* Campers
+* Finances
+** Village dues
+   Currently planned at $100 a head
+
+** Camp dues
+   Additional dues to fund infrastructure, art, transportion of said
+   things.
+
+   TBD, seeking similar structure to years past. 
+
