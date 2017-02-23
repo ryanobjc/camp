@@ -20,6 +20,8 @@
 ** TODO Camp name, camp plan for village planning
    DEADLINE: <2017-03-30 Thu>
 * Camp Name
+** Fiat name
+   "CBT Project"
 ** Facebook poll options
 | Camp name              | Facebook vote count |
 |------------------------+---------------------|
@@ -68,3 +70,68 @@
 
    TBD, seeking similar structure to years past. 
 
+* Meetings
+** Art Introduction 
+   <2017-02-22 Wed>
+
+*** Random notes
+    - Dr Brainlove art car as inspiration (make it climbable)
+    - Safety 3rd
+    - [[http://drbrainlove.tumblr.com/post/122264505146/the-quest-for-climbable-lighting][The Quest for Climbable lighting - Dr Brainlove]]
+
+*** Concept
+    Multiple "Ladders" with LEDs visible from all sides
+
+*** Ladder Structure Ideas
+    1. Vertical ladders, guywire
+    2. A-frame ladder / Step ladder
+    3. Straight ladder with a-frame support on the side
+       Think of a swingset frame
+    4. Vertical with solid anchors no guywires
+       1" EMT, rebar to hold it in
+
+*** LED lights
+    Each horizontal bar of the ladder has LED strips
+    
+    How to make it climbable without destroying the LED lights?
+
+    - Rung Torque (As people attempt to climb)
+    - Diffusion
+    - Safety
+
+*** Physical Engineering Challenges
+    1. Climable and safe
+    2. Lights dont get damaged (by climbers)
+    3. Servicable on playa
+    4. Diffusion (lower priority)
+
+*** Wiring and Power
+    - Ethernet vs Wireless
+    - Power
+      - 120 V
+      - POE
+
+*** Integration
+    - One controller box per ladder
+    - Ethernet power
+
+*** power consumption
+    - 60 mA per LED max
+
+**** Power spreadsheet (maxes)
+#+CONSTANTS: pwr=0.3 meterconv=0.3048
+| Rung count | Rung length | Total m | LED/m |  Wattage |
+|------------+-------------+---------+-------+----------|
+|          8 |           3 |  7.3152 |    30 |  65.8368 |
+|          8 |           3 |  7.3152 |    60 | 131.6736 |
+#+TBLFM: $3=$1*$2*$meterconv::$5=$3*$4*$pwr
+
+*** Tasks to do:
+    1. Physical Structure Design
+    2. Attach lights with easy repariability
+    3. Boxes that go under each ladder, connectivity to center
+    4. Software
+    5. Logistics, fundraising
+
+*** BOM and Costs
+    $15 per 5 meters
