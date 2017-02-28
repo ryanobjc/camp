@@ -1,7 +1,8 @@
-#+TITLE: Top Level Camp Organization
+#+TITLE: CBT Project
 
 * Introduction
-  
+  Welcome to the CBT Project!
+
 ** Camp Philosophy
    The journey is more important then the destination. How we treat
    each other determines the quality of our experience. 
@@ -11,7 +12,7 @@
    coordinate our activities. 
 
 *** Leadership
-    TBD, as projects coleasce, interested parties will step up and
+    TBD, as projects coalesce, interested parties will step up and
     appoint themselves to lead.
    
 * Calendar
@@ -19,6 +20,9 @@
 
 ** TODO Camp name, camp plan for village planning
    DEADLINE: <2017-03-30 Thu>
+** TODO Org Theme camp application deadline
+   DEADLINE: <2017-04-15 Sat>
+   Technically end of April, but we shouldn't wait until the last minute.
 * Camp Name
 ** Fiat name
    "CBT Project"
@@ -37,18 +41,17 @@
 | Lust Potion            |                     |
 * Camp Art
   Two major art projects planned so far
-** CBT - Coffee Bacon Tea
+** CBT - Coffee Bacon Tea (Camp namesake)
    Inside the 20' dome, a cafe with CBT. Additional amenities possible, for example:
    - Tables and chairs
    - Somewhere soft to sit
    - Some kind of platform to play music
    - Programmable LED lights
-   - Volunteer Bar
-** LED art project
-   Actual plans are being drafted, but not available as of yet.
+   - Volunteer Bar (Bring your own booze to serve)
+** LED art project - L-Wave
+   A series of 10 foot tall, 3 foot wide "ladders" that have
+   horizontal, synchronized LEDs.
 
-   The general plan is to go with something that is standalone, serves
-   as a tripper-trapper, and has lots of cool programmable LEDs.
 * Camp Amenities
 ** Provided by village
 *** 120 V Power, 24/7 including RV attachments
@@ -62,13 +65,46 @@
 * Campers
 * Finances
 ** Village dues
-   Currently planned at $100 a head
+   Currently planned at $100 a head.  This will pay for water, power
+   and maybe grey water.
 
 ** Camp dues
    Additional dues to fund infrastructure, art, transportion of said
    things.
 
-   TBD, seeking similar structure to years past. 
+   To be determined, but seeking similar structure to years past.
+   This means, camp dues start at $150 for early birds, and climb to
+   $250 for the late birds.  As before, meal plan is extra, likely
+   weighing in, again, around $50.  The interaction between the
+   Village and Camp regarding a meal plan is also TBD.
+
+   In past years, transportation cost on the order of $3500 for a 26'
+   truck.  Reducing this cost is one of the single most important
+   things we could do as a camp.  This might mean talking about
+   trailers and half-tons instead of a big truck.  Note that it would
+   take 24 campers at $150/head to pay for that $3500 truck bill.
+
+*** Shade
+    In years past, shade was often extra, and funded a per-year shade
+    purchase.  One year it was a huge 50x100' tarp, another year it
+    was a series of amsteel cord and other hardware.  None of that
+    hardware has lasted or been durable or is available.  
+
+    I'd like to build a more persistent shade structure of higher
+    quality.  This means the square EMT modular shade structure.  It's
+    not free, but it's not extremely expensive either.  It also means
+    we are starting at square zero for the shade.  Shade for the
+    common area won't cost too much, and we can probably provide
+    fairly extensive shade in the order of 1600 sqft for under $300.
+    But providing more shade for the residential areas will up the
+    cost, and we need to model that cost.  (I've done some of that
+    work recently.)
+
+    I'd prefer to be able to provide shade for as much of the
+    residential campers as possible, along with a parts list that
+    people can use to buy their own shade that will be compatible with
+    ours.  This will have to go into the budget and might impact
+    overall affordability.
 
 * Meetings
 ** Art Introduction 
